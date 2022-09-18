@@ -21,4 +21,9 @@
     <br>
     <img src="https://github-readme-stats.vercel.app/api?username=nikwo&theme=blue-green">
 </div>
+<div id="ext">
+    <p>Also check: </p><a href="https://github.com/BadPlan">
+        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+    </a>
+</div>
 </div>

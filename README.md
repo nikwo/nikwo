@@ -2,7 +2,7 @@
 <div style="font-size: large;font-family: C059,serif;">
 <div id="header">
     <img src="https://komarev.com/ghpvc/?username=nikwo&style=flat-square&color=blue" alt=""/>
-    <p>Nikita Dubrovsky, 22 y.o.</p>
+    <p>Nikita Dubrovsky, 24 y.o.</p>
     <p>Go developer</p>
 </div>
 <div id="badges">Contact me via:
